@@ -1,0 +1,26 @@
+[
+  {
+    "title": "SwiggyClone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Tailwind CSS", "JavaScript"],
+    "demo": "https://swiggyclonequickeats.netlify.app/",
+    "source": "https://github.com/singammadhu/namaste-react"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This portfolio showcases my skills in building applications using the latest technologies and languages.",
+    "skills": ["React", "Figam", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
